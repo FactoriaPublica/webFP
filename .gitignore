@@ -1,0 +1,26 @@
+# Archivos generados por sistemas de construcción o paquetes
+node_modules/
+dist/
+build/
+
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de edición de texto / IDE
+*.log
+*.tmp
+*.swp
+*~
+.vscode/
+.idea/
+
+# Carpeta de GitHub Pages generada localmente (si usas build)
+__pycache__
